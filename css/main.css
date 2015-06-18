@@ -1,21 +1,22 @@
 *{
 	margin: 0px;
 	padding: 0px;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 }
 h1{
 	font: bold;
 	font-size: 3em;
-	font-family: Tahoma;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 }
 h2{
 	font: bold;
 	font-size: 2em;
-	font-family: Tahoma;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 }
 h4{
 	font: bold;
 	font-size: 1em;
-	font-family: Tahoma;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 }
 header,nav,section,aside,footer,article,form,hgroup{
 	display: block;
@@ -26,7 +27,7 @@ body{
 	-webkit-box-pack: center;
 }
 .wrapper{
-	width: 1024px;
+	width: 100%;
 	margin: 20px auto;
 	display: -webkit-box;
 	-webkit-box-orient: vertical;
@@ -53,7 +54,7 @@ body{
 	border-right: 1px solid black;
 }
 .nav a {
-	font-family: Tahoma;
+	font-family: 'Muli', Helvetica, Arial, sans-serif;
 	font-size: 2em;
 	color:white;
 	text-decoration: none;
